@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Media
+
+### Title
+media_6E70E63B_4938_B19D_41CB_9B071D95B76E.label = Dining Hall 1
+media_6EF80715_4938_9F95_41CD_9F2A3723A2FA.label = Courtyard 1
